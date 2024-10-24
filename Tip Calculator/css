@@ -1,0 +1,27 @@
+ #results {
+         display:none;
+       }
+
+body, h1, h5, input, button {
+    font-family:'Times New Roman', Times, serif
+}
+
+.row{
+    background: purple;
+    border-radius: 30px;
+    margin-top:30px;
+    margin-bottom: 30px;
+   
+}
+.col-md-6 {
+    background: purple, whitesmoke;
+    opacity: 0.88;
+}
+.mx-auto{
+    border-radius: 30px;
+
+  
+}
+.bg-dark{
+    background: purple, whitesmoke, plum;
+}
